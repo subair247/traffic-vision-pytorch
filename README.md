@@ -32,7 +32,7 @@ The custom CNN (`TrafficCNN`) consists of:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/traffic-vision-pytorch.git]
+   git clone [https://github.com/subair247/traffic-vision-pytorch.git]
    cd traffic-vision-pytorch
    ```
 Install dependencies:
